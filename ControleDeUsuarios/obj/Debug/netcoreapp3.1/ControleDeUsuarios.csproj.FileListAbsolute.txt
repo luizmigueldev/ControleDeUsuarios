@@ -36,3 +36,4 @@ D:\Dev\Estudo\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\ws
 D:\Dev\Estudo\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\ws-vs2019\ControleDeUsuarios\ControleDeUsuarios\obj\Debug\netcoreapp3.1\ControleDeUsuarios.pdb
 D:\Dev\Estudo\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\ws-vs2019\ControleDeUsuarios\ControleDeUsuarios\obj\Debug\netcoreapp3.1\ControleDeUsuarios.genruntimeconfig.cache
 D:\Dev\Estudo\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\ws-vs2019\ControleDeUsuarios\ControleDeUsuarios\obj\Debug\netcoreapp3.1\ControleDeUsuarios.csproj.CopyComplete
+D:\Dev\Estudo\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\ws-vs2019\ControleDeUsuarios\ControleDeUsuarios\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
