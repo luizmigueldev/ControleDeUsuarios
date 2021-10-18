@@ -28,7 +28,8 @@ namespace ControleDeUsuarios
             services.AddControllersWithViews();
 
             services.AddDbContext<ControleDeUsuariosContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("ControleDeUsuariosContext")));
+                    options.UseMySql(Configuration.GetConnectionString("ControleDeUsuariosContext"), builder =>
+                    builder.MigrationsAssembly("ControleDeUsuarios")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
